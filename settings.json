@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mal_berat.aternos.me:12929",
+    "ip": "mal_berat.aternos.me",
     "port": 12929,
     "version": "",
     "try-creative": false
